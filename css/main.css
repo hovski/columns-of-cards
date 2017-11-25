@@ -12,7 +12,7 @@ html {
 
 body {
   margin: 0;
-  padding: 1.5 rem;
+  padding: 1.5rem;
 }
 
 h2 {
@@ -27,12 +27,6 @@ h2 {
   width: 25%;
   float: left;
 }
-
-.container-2 {
-  padding: .75rem;
-  background-color: #ccc;
-  width: 25%;
-  float: left;
 
 .img1 {
   width: 100px;
@@ -62,4 +56,29 @@ h3 {
   display: inline-block;
   text-decoration: none;
   border-radius: 8px;
+}
+
+.container-2 {
+  padding: .75rem;
+  background-color: #ccc;
+  width: 25%;
+  float: left;
+}
+
+.container-3 {
+  padding: .75rem;
+  background-color: #aaa;
+  width: 25%;
+  float: left;
+}
+
+.container-4 {
+  padding: .75rem;
+  background-color: #999;
+  width: 25%;
+  float: left;
+}
+
+.btn:hover {
+  background-color: black;
 }
