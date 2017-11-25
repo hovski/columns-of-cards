@@ -24,8 +24,8 @@ h2 {
 .container-1 {
   padding: .75rem;
   background-color: #e2e2e2;
-  width: 25%;
-  float: left;
+  display: table-cell;
+  vertical-align: top;
 }
 
 .img {
@@ -60,22 +60,22 @@ h3 {
 .container-2 {
   padding: .75rem;
   background-color: #ccc;
-  width: 25%;
-  float: left;
+  display: table-cell;
+  vertical-align: top;
 }
 
 .container-3 {
   padding: .75rem;
   background-color: #aaa;
-  width: 25%;
-  float: left;
+  display: table-cell;
+  vertical-align: top;
 }
 
 .container-4 {
   padding: .75rem;
   background-color: #999;
-  width: 25%;
-  float: left;
+  display: table-cell;
+  vertical-align: top;
 }
 
 .btn:hover {
