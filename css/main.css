@@ -31,9 +31,13 @@ h2 {
 }
 
 img {
-  width: 100px;
+  width: 100%;
   display: block;
+}
+
+.shell {
   margin: 0 auto 1.5rem;
+  width: 100px;
 }
 
 h3 {
